@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="AISCO"/>
+	<feature automatic="selected" name="Program"/>
+	<feature manual="selected" name="Activity"/>
+	<feature name="Operational"/>
+	<feature automatic="selected" name="FinancialReport"/>
+	<feature automatic="selected" name="Income"/>
+	<feature name="Expense"/>
+	<feature automatic="selected" manual="selected" name="Donation"/>
+	<feature automatic="unselected" name="DirectPayment"/>
+	<feature automatic="selected" name="PaymentGateway"/>
+	<feature automatic="selected" name="PaymentPage"/>
+	<feature automatic="selected" name="PaymentMethod"/>
+	<feature automatic="unselected" name="Crypto"/>
+	<feature manual="selected" name="Paypal"/>
+	<feature automatic="unselected" name="TransferBank"/>
+	<feature name="Volunteer"/>
+</configuration>
